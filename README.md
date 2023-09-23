@@ -1,10 +1,10 @@
 # Game Manajerial Candi
 
 ## Deskripsi 
-Project ini diminta untuk membuat program Manejerial Candi yang didasarkan pada kisah 
+Project ini merupakan program Manejerial Candi yang didasarkan pada kisah 
 Candi Prambanan, dengan tokoh utama Bandung Bondowoso dan Roro Jonggrang. Bandung mempunyai
 kekuasaan untuk memanggil jin dan membangun candi sedangkan Roro mempunyai kekuasaan untuk
-menghancurkan candi dan menyelesaikan permainan
+menghancurkan candi dan menyelesaikan permainan saat matahari muncul.
 
 ## Cara Memainkan
 untuk memulai, silahkan jalankan "python main.py {nama folder}", nama folder disini
