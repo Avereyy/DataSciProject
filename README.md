@@ -11,10 +11,13 @@ untuk memulai, silahkan jalankan "python main.py {nama folder}", nama folder dis
 merupakan folder save (24-09-2023) yang digunakan untuk menyimpan data berupa 3 file excel yang
 akan dibaca nantinya untuk menjalankan game ini
 Secara default, terdapat data login untuk Bandung Bondowoso dan Roro Jonggrang yang dapat
-diakses melalui user.csv di save/24-09-2023
-Setelah login dengan salah satu role utama yang ada, pemain dapat memainkan dengan memanggil jin,
-membangun candi (termasuk melihat data candi dan jin) hingga terdapat 100 candi untuk memenangkan
-permainan sebagai Bandung, atau menghancurkan dan menyelesaikan permainan sebagai Roro.
+diakses melalui user.csv di save/24-09-2023.
+Setelah login dengan salah satu role utama yang ada, pemain dapat memainkan sesuai peran yang
+dipilih, peran yang ada adalah sebagai Bandung, Roro, ataupun Jin. Pengguna dapat melakukan command
+help untuk mengetahui apa saja yang dapat dilakukan oleh tiap role yang sedang dipilih.
+Secara singkat, Bandung dapat mensummon jin, menghapus jin, mengubah jin, melalukan batch,
+dan menerima laporan jin dan candi sedangkan Roro dapat menghancurkan candi dan melakukan command
+ayamberkokok yang dapat menyelesaikan permainan yang sedang berjalan.
 Jin yang telah di summon dapat kita gunakan dengan login sebagai jin tersebut,
 (harap logout dahulu sebelum login dengan user baru yang ada) terdapat 2 jin yaitu
 jin pengumpul dan jin pembangun. Jin pembangun akan membangun jika bahan yang dikumpulkan oleh
